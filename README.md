@@ -1,4 +1,4 @@
 # Colony
 Colony - Building survival game.
 
-<b>Please consider supporting the development... colony-game.eu
+<b>Please support development of Colony... here -> colony-game.eu
